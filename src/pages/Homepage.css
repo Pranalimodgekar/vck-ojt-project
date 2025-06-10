@@ -1,0 +1,49 @@
+#root{
+  
+ 
+  text-align: center;
+  border-radius: 1em;
+  padding: 3em;
+  margin: 100px;
+ color: black;  
+}
+
+ #img{
+   background-image: url(C:\ojt\Ojtproject3\Ojt_react_app\Demo\public\Images\img1.png);
+} 
+
+ .A{
+  background-color: aqua;
+  width: 1300px;
+  
+ }
+ 
+.home{
+  background-color: white;
+  text-align: center;
+}
+
+
+
+p{
+  color: grey;
+  text-align: center;
+}
+
+img{
+  width: 300px;
+  height: 300px;
+}
+
+div #scroller{
+
+  width: 900px;
+  height: 500px;
+  overflow-y: scroll;
+  scrollbar-color:black lightblue;
+}
+.apply-button{
+  background-color: green;
+  color: white;
+}
+ 

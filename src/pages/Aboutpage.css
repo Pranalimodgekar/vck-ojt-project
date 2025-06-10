@@ -1,0 +1,27 @@
+.about{
+  color:blue;
+  background-color:white;
+  border-radius:1em ;
+  padding: 6em;
+  margin: 50px;
+  
+}
+#B{
+  background-color: aqua;
+  width: 1200px;
+}
+#aa{
+  color: grey;
+  text-align: left;
+}
+#b{
+  color: rgb(26, 22, 22);
+}
+
+div #scroller{
+
+  width: 900px;
+  height: 500px;
+  overflow-y: scroll;
+  scrollbar-color:black lightblue;
+}

@@ -1,0 +1,21 @@
+
+.D{
+  background-color: aqua;
+  width: 1250px;
+}
+.d{
+
+  color: black;
+  padding: 2em;
+  margin: 200px;
+  background-color: white;
+  
+
+}
+div #scroller{
+
+  width: 900px;
+  height: 500px;
+  overflow-y: scroll;
+  scrollbar-color:black lightblue;
+}

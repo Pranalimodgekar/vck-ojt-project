@@ -1,0 +1,25 @@
+.courses{
+  
+  background-color:aqua;
+  border-radius:1em ;
+  padding: 2em;
+  margin: 100px;
+  
+}
+
+.c1{
+  color: blue;
+  text-align: center;
+  background-color: white;
+}
+#courses{
+  color: black;
+}
+div #scroller{
+
+  width: 900px;
+  height: 500px;
+  overflow-y: scroll;
+  scrollbar-color:black lightblue;
+}
+
