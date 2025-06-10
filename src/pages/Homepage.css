@@ -1,20 +1,28 @@
-#root{
+.aa{
+   background-image: url(C:\ojt\Ojtproject3\Ojt_react_app\Demo\public\Images\img1.png);
+   color: white;
+   background-color: white;
+   text-align: center;
+   border-radius: 2em;
+}
   
  
+  /* text-align: center;
+  border-radius: 1em;
+  padding: 3em;
+  margin: 1px;
+ 
+ width: 1250px;
+} */
+
+
+ .A{
+  background-color: aqua;
   text-align: center;
   border-radius: 1em;
   padding: 3em;
-  margin: 100px;
- color: black;  
-}
-
- #img{
-   background-image:url(/Images/img1.png)
- }
- .A{
-  background-color: aqua;
-  width: 1300px;
-  
+  margin: 1px;
+  width: 1000px;
  }
  
 .home{
@@ -24,10 +32,7 @@
 
 
 
-p{
-  color: grey;
-  text-align: center;
-}
+
 
 img{
   width: 300px;
@@ -41,8 +46,9 @@ div #scroller{
   overflow-y: scroll;
   scrollbar-color:black lightblue;
 }
-.apply-button{
+.button{
   background-color: green;
   color: white;
+  text-align: center;
 }
  

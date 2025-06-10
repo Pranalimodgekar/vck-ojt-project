@@ -15,7 +15,7 @@ const Courses =()=> {
                 </p>
                  <div id ="courses">
              <h1>Discover Campus Life</h1>  
-              <video src="public/Videos/3209298-uhd_2560_1440_25fps.mp4" width="600" height="200" controls></video>
+              <video src="\Videos\3209298-uhd_2560_1440_25fps.mp4" width="600" height="200" controls></video>
                <h1>Undergraduate Programs (UG)</h1>
               <ul>
                 <li>Bachelor of Science (B.Sc.)</li>
