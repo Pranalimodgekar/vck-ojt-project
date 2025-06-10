@@ -9,7 +9,7 @@
 }
 
  #img{
-   background-image:url(../../public/Images/img1.png)
+   background-image:url(/Images/img1.png)
  }
  .A{
   background-color: aqua;
