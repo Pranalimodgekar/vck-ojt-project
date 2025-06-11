@@ -13,7 +13,7 @@
   margin: 1px;
  
  width: 1250px;
-} */
+ */
 
 
  .A{
@@ -23,12 +23,18 @@
   padding: 3em;
   margin: 1px;
   width: 1000px;
+  margin-left:20px;
+  margin-right: 20px;
  }
  
 .home{
-  background-color: white;
+  background-color: #ffffff;
   text-align: center;
 }
+.aa{
+  background-image: url(/Images/img1.png)
+}
+
 
 
 

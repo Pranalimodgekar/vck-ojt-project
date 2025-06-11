@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "../components/Header/Header";
 import './Aboutpage.css'
+import Footer from "../components/Header/Footer/Footer";
 
 const  About =()=> {
     return(
@@ -32,6 +33,7 @@ const  About =()=> {
          if any]. Our journey began with a vision to make quality education available to all, and we continue that legacy today.
    </p>
    </div>
+     <Footer/>
         </div>
     )
 }

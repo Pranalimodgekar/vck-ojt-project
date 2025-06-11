@@ -5,6 +5,7 @@
     box-shadow: 0 2px 4px rgba(12, 63, 216, 0.1);
     position: relative;
     z-index: 100;
+    margin-bottom: 100px;
 }
 
 .header-container{
