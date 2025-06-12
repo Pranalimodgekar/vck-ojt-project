@@ -15,7 +15,7 @@ const Home = () => {
            
             <div className="aa" >
                 
-             <h2 > Welcome to vivekanand college!</h2>
+             <h1 > Welcome to vivekanand college!</h1>
             <h2 >Your journey to excellence starts here.</h2>
             <Link to="/admission" className="button"> Apply Now!</Link>
           </div>

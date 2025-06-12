@@ -26,20 +26,21 @@
  
   background-color: white;
   padding: 6em;
-  margin-left: 1000px;
+  margin-left: 1500px;
+  margin-right: 1500px;
   margin: 100px;
-  margin-top: 50px;
+  margin-top: 1px;
   margin-bottom: 1px;
 
   
 }
 .aa{
-  color: white;
+  color:white;
   background-color: white;
   text-align: center;
   /* background-image: url(/Images/img1.png); */
   margin-bottom: 20px;
-  background-image: url(/Images/img1.png);
+  background-image: url(/Images/vck.jpg);
   height: 200px;
   width: 880px;
  
