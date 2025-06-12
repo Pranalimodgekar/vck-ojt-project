@@ -1,21 +1,29 @@
 .courses{
+ background-color: aqua;
+  width: 1200px;
+  text-align: center;
+  border-radius: 1em;
+  padding: 0em;
+  margin: 1px;
+  width: 1460px;
   
-  background-color:aqua;
-  border-radius:1em ;
-  padding: 2em;
- width: 1000px;
-  
+}
+h1{
+  color: rgb(4, 145, 201);
 }
 
 .c1{
-  color: blue;
-  text-align: center;
-  background-color: white;
+   background-color: white;
+  padding: 6em;
+  margin-left: 800px;
+  margin: 100px;
+  margin-top: 50px;
+  margin-bottom: 1px;
 }
 #courses{
   color: black;
 }
-div #scroller{
+ #scroller{
 
   width: 900px;
   height: 500px;

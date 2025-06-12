@@ -1,8 +1,11 @@
 .about{
-  color:blue;
-  background-color:white;
-  border-radius:1em ;
+  background-color: white;
   padding: 6em;
+  margin-left: 800px;
+  margin: 100px;
+  margin-top: 50px;
+  margin-bottom: 1px;
+
   
   
   
@@ -10,20 +13,22 @@
 #B{
   background-color: aqua;
   width: 1200px;
+  text-align: center;
+  border-radius: 1em;
+  padding: 0em;
+  margin: 1px;
+  width: 1460px;
   
 }
-#aa{
-  color: grey;
-  text-align: left;
-}
-#b{
-  color: rgb(26, 22, 22);
-}
 
-div #scroller{
+
+ #scroller{
 
   width: 900px;
   height: 500px;
   overflow-y: scroll;
   scrollbar-color:black lightblue;
+}
+.bb{
+  color:rgb(14, 165, 225);
 }

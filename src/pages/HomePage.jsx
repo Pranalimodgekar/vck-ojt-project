@@ -7,15 +7,19 @@ import Footer from "../components/Header/Footer/Footer";
 const Home = () => {
     return(
         
-     <div  className="A">
+     <div  className="all">
              <Header/>
             
-         <div className="aa" id="scroller">
-             <h1 > Welcome to vivekanand college!</h1>
+         <div className="home" id="scroller">
+           
+           
+            <div className="aa" >
+                
+             <h2 > Welcome to vivekanand college!</h2>
             <h2 >Your journey to excellence starts here.</h2>
             <Link to="/admission" className="button"> Apply Now!</Link>
-        
-            <div className="home">
+          </div>
+            
             <p>
                 **Vivekanand College is a premier educational institution dedicated to fostering academic excellence, 
                 innovation, and holistic development. Established in [Year of Establishment, e.g., 1980], 
@@ -26,8 +30,8 @@ const Home = () => {
             Our state-of-the-art, experienced faculty, and diverse student community create a unique 
             ecosystem where curiosity thrives and future leaders are shaped.
         </p>
-       
-        <h1> Why we choose vivekanand college</h1>
+        
+        <h2> Why we choose vivekanand college</h2>
         
         <ul>
             <li> **Legacy of Excellence:** Decades of commitment to quality education.</li>
@@ -45,10 +49,11 @@ const Home = () => {
              <p>Explore our vibrant campus and state-of-the-art facilities designed to enhance your 
             learning experience and personal growth.</p>
              <h3>Ready to explore our courses?</h3>
+              
                  <div>
                     <button type="button">Explore courses</button>
                  </div>
-                 </div>
+                 
         </div>
             <Footer/>
      </div>

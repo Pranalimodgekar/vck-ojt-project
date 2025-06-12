@@ -8,15 +8,16 @@ const Courses =()=> {
     return(
         <div className="courses" >
             <Header/>
-          <div className="c1" id="scroller"><h1>Our Academic Programs</h1>  
+          <div className="c1" id="scroller">
+            <h1>Our Academic Programs</h1>  
             <p>Vivekanand College offers a comprehensive range of undergraduate and postgraduate programs designed to equip students
                  with  the knowledge and skills demanded by today's dynamic global landscape. Our curriculum is regularly updated to reflect
              industry trends and academic advancements
                 </p>
                  <div id ="courses">
-             <h1>Discover Campus Life</h1>  
+             <h2>Discover Campus Life</h2>  
               <video src="\Videos\3209298-uhd_2560_1440_25fps.mp4" width="600" height="200" controls></video>
-               <h1>Undergraduate Programs (UG)</h1>
+               <h2>Undergraduate Programs (UG)</h2>
               <ul>
                 <li>Bachelor of Science (B.Sc.)</li>
                 <ul>
@@ -35,7 +36,7 @@ const Courses =()=> {
                 <li>English Literature (3 years)</li>
                 <li>Psychology (3 years)</li>
             </ul>
-           <h1>Postgraduate Programs (PG)</h1>
+           <h2>Postgraduate Programs (PG)</h2>
             <ul>
               <li>Master of Science (M.Sc.)</li>
            <ul>

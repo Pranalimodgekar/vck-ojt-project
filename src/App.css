@@ -1,4 +1,4 @@
-/* #root {
+/* /* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -72,87 +72,9 @@ v{
   color:blue;
   background-color: white;
 } */
+/* / */
 
-#root{
-  
- 
-  text-align: center;
-  border-radius: 1em;
-  padding: 3em;
-  margin: 100px;
- color: black;  
-
-}
-#img{
-   background-image: url(C:\ojt\Ojtproject3\Ojt_react_app\Demo\public\Images\img1.png);
-}
-
- .A{
-  background-color: aqua;
-  /* max-width: 767px;
-  min-width: 768px;
-  min-width: 992px;
-  */
- }
-div #root{
-  color: white;
-}
-.home{
-  background-color: white;
-  text-align: center;
-}
-
-
-button{
-  background-color: green;
-}
-
-p{
-  color: grey;
-  text-align: center;
-}
-
-
-  
-
-.about{
-  color:blue;
-  background-color:white;
-  border-radius:1em ;
-  padding: 6em;
-  margin: 50px;
-  
-}
-#B{
-  background-color: aqua;
-}
-#aa{
-  color: grey;
-  text-align: left;
-}
-#b{
-  color: rgb(26, 22, 22);
-}
-.courses{
-  
-  background-color:aqua;
-  border-radius:1em ;
-  padding: 2em;
-  margin: 100px;
-}
-
-.c1{
-  color: blue;
-  text-align: center;
-  background-color: white;
-}
-#courses{
-  color: black;
-}
-
-
-
-.D{
+/* /
   background-color: aqua;
 }
 .d{
@@ -190,10 +112,10 @@ div #scroller{
 .ee{
   text-align: center;
   color: blue;
-}
+} */
 
-.apply-button{
+/* .apply-button{
   background-color: green;
   color: white;
 }
-
+  */

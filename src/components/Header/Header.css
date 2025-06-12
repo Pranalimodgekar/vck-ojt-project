@@ -21,6 +21,7 @@
 .logo{
     font-size: 1.5rem;
     font-weight: bold;
+    color: white;
 }
 
 .nav{
@@ -37,7 +38,8 @@
 }
 
 .nav-link:hover{
-    text-decoration: underline;
+    text-decoration: none;
+    color: white;
 }
 
 .apply-btn{
@@ -49,15 +51,7 @@
     text-decoration: none;
 }
 
-.apply-btn:hover{
+.apply-button{
     background-color: #16a34a;
 }
 
-.hamburger{
-    display: none;
-    font-size: 1.8rem;
-    cursor: pointer;
-    background: none;
-    border: none;
-    color: white;
-}

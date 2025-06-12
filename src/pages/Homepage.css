@@ -1,10 +1,4 @@
-.aa{
-   background-image: url(\Images\img1.png);
-   color: white;
-   background-color: white;
-   text-align: center;
-   border-radius: 2em;
-}
+
   
  
   /* text-align: center;
@@ -16,23 +10,39 @@
  */
 
 
- .A{
+ .all{
   background-color: aqua;
   text-align: center;
   border-radius: 1em;
-  padding: 3em;
+  padding: 0em;
   margin: 1px;
-  width: 1000px;
-  margin-left:20px;
-  margin-right: 20px;
+  width: 1460px;
+  
  }
  
+
+
 .home{
-  background-color: #ffffff;
-  text-align: center;
+ 
+  background-color: white;
+  padding: 6em;
+  margin-left: 1000px;
+  margin: 100px;
+  margin-top: 50px;
+  margin-bottom: 1px;
+
+  
 }
 .aa{
-  background-image: url(/Images/img1.png)
+  color: white;
+  background-color: white;
+  text-align: center;
+  /* background-image: url(/Images/img1.png); */
+  margin-bottom: 20px;
+  background-image: url(/Images/img1.png);
+  height: 200px;
+  width: 880px;
+ 
 }
 
 
@@ -45,7 +55,7 @@ img{
   height: 300px;
 }
 
-div #scroller{
+#scroller{
 
   width: 900px;
   height: 500px;
@@ -56,5 +66,11 @@ div #scroller{
   background-color: green;
   color: white;
   text-align: center;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+
+}
+button{
+  background-color: green;
 }
  
