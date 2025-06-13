@@ -1,6 +1,6 @@
 
 .D{
-  background-color: aqua;
+  background-color:rgb(51, 197, 255);
   width: 1200px;
   text-align: center;
   border-radius: 1em;
@@ -23,4 +23,7 @@
   height: 500px;
   overflow-y: scroll;
   scrollbar-color:black lightblue;
+}
+#contact{
+  color: rgb(32, 173, 228);
 }

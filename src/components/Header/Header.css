@@ -5,7 +5,7 @@
     box-shadow: 0 2px 4px rgba(12, 63, 216, 0.1);
     position: relative;
     z-index: 100;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .header-container{
@@ -42,16 +42,18 @@
     color: white;
 }
 
-.apply-btn{
+/* .apply-btn{
     background-color: #22c55e;
     color: white;
     padding: 0.5rem 1rem;
     font-weight: bold;
     border-radius: 4px;
     text-decoration: none;
-}
+} */
 
 .apply-button{
     background-color: #16a34a;
+    color: white;
+    height: 30px;
 }
 

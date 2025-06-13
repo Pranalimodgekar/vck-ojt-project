@@ -2,6 +2,7 @@ import React from "react"
 import Header from "../components/Header/Header"
 import './Admissionpage.css'
 import Footer from "../components/Header/Footer/Footer"
+import { Link } from "react-router-dom"
 const Admission = ()=>{
     return(
     <div className="Ea">
@@ -76,9 +77,9 @@ const Admission = ()=>{
             <p>
                 "For detailed information on postgraduate program admissions, 
                 specific program syllabi, and fee structures, please visit our"
-                <a href="/courses" data-discover="true">Courses</a>
+                <Link to="/courses" className="ad">Courses page</Link>
                 " or"
-                <a href="/contact" data-discover="true">Contact</a>
+                <Link to="/contact" className="ad">Contact us</Link>
                 " directly. "
             </p> 
           </div>  

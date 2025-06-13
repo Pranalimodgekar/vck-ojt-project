@@ -1,5 +1,5 @@
 .Ea{
- background-color: aqua;
+ background-color: rgb(51, 197, 255);
   width: 1200px;
   text-align: center;
   border-radius: 1em;
@@ -17,5 +17,5 @@
 }
 .ee{
   text-align: center;
-  color: blue;
+  color:rgb(31, 184, 245);
 }

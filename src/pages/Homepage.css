@@ -11,7 +11,7 @@
 
 
  .all{
-  background-color: aqua;
+  background-color:rgb(51, 197, 255);
   text-align: center;
   border-radius: 1em;
   padding: 0em;
@@ -38,30 +38,22 @@
   color:white;
   background-color: white;
   text-align: center;
-  /* background-image: url(/Images/img1.png); */
-  margin-bottom: 20px;
+  margin-bottom: 1px;
   background-image: url(/Images/vck.jpg);
-  height: 200px;
+  height: 280px;
   width: 880px;
- 
-}
+ }
 
-
-
-
-
-
-img{
+ img{
   width: 300px;
   height: 300px;
 }
 
 #scroller{
-
-  width: 900px;
+ width: 1000px;
   height: 500px;
   overflow-y: scroll;
-  scrollbar-color:black lightblue;
+  scrollbar-color:grey lightblue;
 }
 .button{
   background-color: green;

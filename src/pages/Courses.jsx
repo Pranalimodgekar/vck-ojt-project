@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../components/Header/Header";
 import './Coursespage.css'
 import Footer from "../components/Header/Footer/Footer";
+import { Link } from "react-router-dom";
 
 
 const Courses =()=> {
@@ -88,7 +89,7 @@ const Courses =()=> {
                 and Soft Skills Development, providing specialized training for career enhancement.</p>
             <p>Have questions about a specific course?</p>
             
-                <button type="button" id="button">Inquire About Courses</button>
+                <Link to ="/Contact" className="button">Inquire About Courses</Link>
          </div>  
          <Footer/> 
         </div>

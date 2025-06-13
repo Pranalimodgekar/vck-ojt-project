@@ -9,7 +9,7 @@ const Contact =()=> {
             <Header/>
      
      <div className="d" id="scroller">
-        <h1>Contact Us</h1>
+        <h1 id="contact">Contact Us</h1>
          <p>We'd love to hear from you! Whether you have questions about admissions, programs, or campus life, our team is here to help.</p>
     <h2>General Enquiries</h2>
         <p>Vivekanand College Main Campus
